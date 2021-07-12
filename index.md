@@ -38,7 +38,6 @@ include "Blog Posting Page/BlogPostingPage.php"
     <form>
         <a type="button" class="buttonjoin" href="Log In Page/loginhtml.php">Post Now</a>
     </form>
-    <p class="niche">You must login to see latest blogs or post one.</p>
     <div class="posts" id="latest" >
         <h1>Latest Posts</h1>
         <p class="niche">You must <a href="Log In Page/loginhtml.php">login</a> to see latest blogs or post one.</p>
