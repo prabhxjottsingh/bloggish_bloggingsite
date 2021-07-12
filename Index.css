@@ -1,0 +1,189 @@
+.nav{
+  background-color: darkgray;
+  background-color: transparent;
+}
+
+#WebsiteName{
+  padding: 0%;
+  margin-right: 27%;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+  font-size: large;
+}
+
+ul {
+  border: 0px solid darkgray;
+  padding: 8px;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+li a {
+  color: black;
+}
+
+.button:hover{
+background-color: grey;
+padding: 5px;
+border-radius: 5px;
+}  
+
+.signup{
+padding: 10px;
+margin-left: 33%;
+}
+
+.signup:hover{
+border-radius: 30px;
+background-color: rosybrown;
+borde
+}
+
+.signup {
+border: 1px solid rgb(127, 0, 0);
+border: 1px solid rgba(255, 0, 0, .5);
+border-radius: 30px;
+border-color: rosybrown;
+background-clip: padding-box; 
+}
+
+.front{
+font-size: xx-large;
+text-align: center;
+}
+
+.niche{
+font-size: medium;
+text-align: center;
+}
+
+.bgimage{
+position: absolute;
+top: 0%;
+bottom: 0%;
+min-height: 100%;
+min-width: 100%;
+}
+
+.buttonjoin{
+background-color: rgb(165, 52, 140);
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin-left: 42%;
+margin-top: 3%;
+border-radius: 30px;
+}
+
+.buttonjoin:hover{
+background-color: black;
+pointer-events: visible;
+animation-delay: 20ms;
+}
+
+.SocialImage{
+height: 1.5%;
+width: 1.5%;
+margin-left: 5px;
+float: right;
+}
+
+.contact{
+margin-top: 30%;
+width: 100%;
+height: 30%;
+background-color: cadetblue;
+}
+
+button{
+margin-right: 10px;
+background-color: #666;
+}
+
+.Abootus{
+padding: 15px;
+width: 25%;
+font-size: 300%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 200;
+float: left;
+}
+
+.follow{
+margin-right: 25%;
+text-align: right;
+float: right;
+display: inline-block;
+}
+
+
+
+.SocialImage2{
+height: 7%;
+width: 7%;  
+}
+
+.posts{
+margin-top: 30%;
+}
+
+.boxed {
+  border: 3x solid rgb(0, 0, 0) ;
+  background-color: whitesmoke;
+  width: 95%;
+  margin: 6px;
+  margin-left: 2.5%;
+  border-radius: 10px;
+}
+
+.blogtitle{
+  font-size: 20px;
+}
+
+.blogcontent{
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.blogusername{
+  font-size: 30px;
+  margin-left: 80%;
+  color: peru;
+}
+
+
+
+.about{
+  margin-left: 0%;
+  width: 25%;
+  float: left;
+  display: inline;
+}
+
+.follow{
+  text-align: left;
+  margin-right: 10%;
+  width: 33%;
+  float: right;
+  display: inline;
+}
+
+.start{
+  display: inline;
+  float: left;
+}
+
+.startimage{
+  position: relative;
+  margin-left: 300%;
+}
